@@ -1,0 +1,94 @@
+<mxfile host="app.diagrams.net" modified="2023-11-21T11:59:48.424Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="tr1A_7kB0LtNgMemVrxa" version="22.1.3" type="device">
+  <diagram name="Page-1" id="wcRcBWHPYW87H2cKEx-a">
+    <mxGraphModel dx="954" dy="515" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TtxNaFNIFFfouLJvDYgc-2" value="&lt;b&gt;DOCUMENTS&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="220" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TtxNaFNIFFfouLJvDYgc-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="207" y="147.5" width="120" height="205" as="geometry" />
+        </mxCell>
+        <mxCell id="TtxNaFNIFFfouLJvDYgc-4" value="&lt;b&gt;Chunk 1&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="228" y="160" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TtxNaFNIFFfouLJvDYgc-5" value="&lt;b&gt;Chunk 2&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="228" y="230" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TtxNaFNIFFfouLJvDYgc-6" value="&lt;b&gt;Chunk n&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="228" y="300" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TtxNaFNIFFfouLJvDYgc-7" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="TtxNaFNIFFfouLJvDYgc-6" target="TtxNaFNIFFfouLJvDYgc-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="320" as="sourcePoint" />
+            <mxPoint x="440" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TtxNaFNIFFfouLJvDYgc-8" value="&lt;b&gt;Splits&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="237" y="117.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TtxNaFNIFFfouLJvDYgc-9" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#647687;strokeColor=#314354;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="249.5" as="sourcePoint" />
+            <mxPoint x="200" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TtxNaFNIFFfouLJvDYgc-12" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#647687;strokeColor=#314354;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="334" y="248.5" as="sourcePoint" />
+            <mxPoint x="364" y="249" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TtxNaFNIFFfouLJvDYgc-13" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.data;" vertex="1" parent="1">
+          <mxGeometry x="380" y="195" width="89.1" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="TtxNaFNIFFfouLJvDYgc-14" value="&lt;b&gt;Vector DB&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="394.55" y="160" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TtxNaFNIFFfouLJvDYgc-15" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#647687;strokeColor=#314354;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="475" y="250.5" as="sourcePoint" />
+            <mxPoint x="505" y="251" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TtxNaFNIFFfouLJvDYgc-16" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="512" y="145.5" width="120" height="205" as="geometry" />
+        </mxCell>
+        <mxCell id="TtxNaFNIFFfouLJvDYgc-18" value="&lt;b&gt;Chunk 2&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="533" y="250" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TtxNaFNIFFfouLJvDYgc-19" value="&lt;b&gt;Chunk 4&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="533" y="298" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TtxNaFNIFFfouLJvDYgc-21" value="&lt;b&gt;Retrieval&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="542" y="115.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TtxNaFNIFFfouLJvDYgc-22" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#647687;strokeColor=#314354;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="639" y="246.5" as="sourcePoint" />
+            <mxPoint x="669" y="247" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TtxNaFNIFFfouLJvDYgc-23" value="&lt;b&gt;Question&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="542" y="210" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TtxNaFNIFFfouLJvDYgc-24" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="145.5" width="120" height="204.5" as="geometry" />
+        </mxCell>
+        <mxCell id="TtxNaFNIFFfouLJvDYgc-25" value="&lt;b&gt;Prompt&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="710" y="115.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TtxNaFNIFFfouLJvDYgc-26" value="&lt;h1&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Question&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Answer based on below test,&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="160" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TtxNaFNIFFfouLJvDYgc-27" value="&lt;b&gt;Chunk 2&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="250" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TtxNaFNIFFfouLJvDYgc-28" value="&lt;b&gt;Chunk 4&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="300" width="80" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
